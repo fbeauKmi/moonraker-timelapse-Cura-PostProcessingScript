@@ -8,6 +8,8 @@ Triggers could be Layer, Time or number of frames(time based, quite inaccurate :
 Copy the file `AddSnapshot.py` in `share/cura/plugins/PostProcessingPlugin/scripts/` folder of Cura directory. Restart Cura.
 
 ## Usage ##
+![OL-MR_timelapse](https://user-images.githubusercontent.com/88246672/177631145-b4117b84-774f-43c5-a38c-af0174d71ca1.png)
+
 1. start Cura, load your model and configure print settings 
 2. select from the menu `Extensions/Post Processing Plugin/Modify G-code`
 3. choose target `Moonraker-timelapse` or 'Octolapse`
